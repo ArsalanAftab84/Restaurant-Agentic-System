@@ -3,5 +3,5 @@ uvicorn[standard]
 pydantic
 sqlalchemy
 psycopg2-binary
-psycopg22
+psycopg2
 python-dotenv
